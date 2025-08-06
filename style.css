@@ -78,4 +78,10 @@ body {
             border-radius: 4px;
         }
 
-        
+        .border-bar {
+            border-bottom: 2px solid #007bff
+        }
+
+        h3.item {
+    border-bottom: 2px solid grey;
+        }
